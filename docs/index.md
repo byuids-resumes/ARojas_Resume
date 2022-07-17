@@ -26,8 +26,6 @@ __Northern Virginia Community College - Virginia__, Annandale, VA
 - Associate of Business Management
 - 3.0 GPA
 
-## Related Experience
-
 ### Skills
 
 
